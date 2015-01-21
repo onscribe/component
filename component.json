@@ -1,0 +1,28 @@
+{
+	"name": "onscribe",
+	"version": "0.0.1",
+	"description": "Render Onscibe buttons using a custom element",
+	"authors": [
+		"Makis Tracend <makis@kdi.co>"
+	],
+	"licenses": [
+		{
+			"type": "Apache license, version 2.0",
+			"url": "http://makesites.org/licenses/APACHE-2.0"
+		}
+	],
+	"keywords": [
+		"component",
+		"custom-element",
+		"web-components"
+	],
+	"main": "index.html",
+	"ignore": [
+		"bower_components",
+		"components",
+		"node_modules"
+	],
+	"dependencies": {
+		"webcomponentsjs": "*"
+	}
+}
