@@ -39,7 +39,7 @@ bower install onscribe
 3. Start using it!
 
 ```html
-<x-onscribe data-product="8d8115c0fb86170371b78c1499815266"></x-onscribe>
+<onscribe-buttons data-product="8d8115c0fb86170371b78c1499815266"></onscribe-buttons>
 ```
 
 
