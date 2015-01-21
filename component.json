@@ -1,6 +1,6 @@
 {
 	"name": "onscribe",
-	"version": "0.0.1",
+	"version": "0.1.0",
 	"description": "Render Onscibe buttons using a custom element",
 	"authors": [
 		"Makis Tracend <makis@kdi.co>"
